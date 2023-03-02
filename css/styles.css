@@ -7,11 +7,17 @@
     box-sizing: border-box;
 }
 
+
+
 body {
     background-image: url("../img/fundo.jpg");
     background-position: center;
 
 }
+
+
+
+
 
 button {
     background-color: #d64f00;
@@ -57,7 +63,7 @@ backdrop-filter: blur(30px);*/
 .todo-container {
     max-width: 450px;
     margin: 5rem auto;
-    background-color: #fefefe;
+    background-color: #fafafa;
     padding: 1.5rem;
     border-radius: 15px;
 

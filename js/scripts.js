@@ -6,7 +6,6 @@ const editForm = document.querySelector("#edit-form");
 const editInput = document.querySelector("#edit-input");
 const cancelEditBtn = document.querySelector("#cancel-edit-btn");
 
-
 let oldInputValue;
 
 //Funções
@@ -124,4 +123,10 @@ if(editInputValue){
 toggleForms();
 
 })
+
+
+
+
+
+
 
